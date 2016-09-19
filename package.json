@@ -1,5 +1,5 @@
 {
-  "name": "yelp",
+  "name": "react-for-downstream",
   "version": "1.0.0",
   "description": "",
   "scripts": {
@@ -9,6 +9,7 @@
   "devDependencies": {
     "autoprefixer": "^6.4.1",
     "cssnano": "^3.7.5",
+    "dotenv": "^2.0.0",
     "precss": "^1.4.0"
   }
 }
